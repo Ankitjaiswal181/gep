@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image": "../assets/Informational Image/Group 19.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "briefing documents",
+        "play" :"",
+        "view":"View all"
+    },
+    {
+        "id": 2,
+        "image": "../assets/Informational Image/Group 811.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "bulletins",
+        "play" :"",
+        "view":"View all"
+    },
+    {
+        "id": 3,
+        "image": "../assets/Informational Image/Mask Group 18.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "case studies",
+        "play" :"",
+        "view":"View all"
+    },
+    {
+        "id": 4,
+        "image": "../assets/Informational Image/Mask Group 17.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "Podcast",
+        "play" :"../assets/Promotinal Image/Group 817.png",
+        "view":"View all"
+    },
+    {
+        "id": 5,
+        "image": "../assets/Informational Image/Mask Group 30.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "research reports",
+        "play" :"",
+        "view":"View all"
+    },
+    {
+        "id": 6,
+        "image": "../assets/Informational Image/Mask Group 29.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "webinars",
+        "play" :"../assets/Promotinal Image/Group 817.png",
+        "view":"View all"
+    },
+    {
+        "id": 7,
+        "image": "../assets/Informational Image/Mask Group 28.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "white papers",
+        "play" :"",
+        "view":"View all"
+    }
+]

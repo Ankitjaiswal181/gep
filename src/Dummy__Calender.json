@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "image": "../assets/CalenderImage/Img2.png",
+    "platform":"webinar",
+    "title": "Meet the Parter",
+    "date" :"Tuesday, June 22 | 10:00 AM",
+    "place":"MS Team"
+},
+{
+    "id": 2,
+    "image": "../assets/CalenderImage/Img2.png",
+    "platform":"webinar",
+    "title": "Meet the Parter",
+    "date" :"Tuesday, June 22 | 10:00 AM",
+    "place":"MS Team"
+},
+{
+    "id": 3,
+    "image": "../assets/CalenderImage/Img2.png",
+    "platform":"webinar",
+    "title": "Meet the Parter",
+    "date" :"Tuesday, June 22 | 10:00 AM",
+    "place":"MS Team"
+},
+{
+    "id": 4,
+    "image": "../assets/CalenderImage/Img2.png",
+    "platform":"webinar",
+    "title": "Meet the Parter",
+    "date" :"Tuesday, June 22 | 10:00 AM",
+    "place":"MS Team"
+}
+]

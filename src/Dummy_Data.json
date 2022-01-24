@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "image": "../assets/Promotinal Image/Mask Group 13.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "Advertorials",
+        "play" :"",
+        "video":"",
+        "view":"View all"
+
+    },
+    {
+        "id": 2,
+        "image": "../assets/Promotinal Image/Mask Group 16.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "Digital Banners",
+        "play" :"",
+        "video":"",
+        "view":"View all"
+    },
+    {
+        "id": 3,
+        "image": "../assets/Promotinal Image/Mask Group 15.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "Radio Spots",
+        "play" :"../assets/Promotinal Image/Group 817.png",
+        "video":"",
+        "audio": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+        "view":"View all"
+    },
+    {
+        "id": 4,
+        "image": "../assets/Promotinal Image/Mask Group 14.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "content": "televisions Ads",
+        "play" :"../assets/Promotinal Image/Group 817.png",
+        "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "view":"View all"
+    }
+]
